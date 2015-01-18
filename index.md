@@ -1,3 +1,8 @@
+---
+title: Home
+layout: post
+---
+
 # Special Topics in Learning Analytics
 
 ## Syllabus
