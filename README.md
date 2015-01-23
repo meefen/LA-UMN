@@ -13,7 +13,7 @@ LA-UMN
 
 ## Knowledge Forum
 
-- [Link](kf.utoronto.ca:8080/kforum)
+- [Link](http://kf.utoronto.ca:8080/kforum/home.xhtml)
 - [Video tutorials](http://kf.utoronto.ca:8080/kforum/about)
 
 ## Social Media Dashboard
