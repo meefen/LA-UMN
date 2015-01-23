@@ -1,37 +1,75 @@
-week1
+Week 1 - Introduction
 ========================================================
-author: 
-date: 
+author: Bodong Chen
+date: January 21, 2015
 
-First Slide
-========================================================
+## Learning Analytics in the Knowledge Age
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Learning Analytics as a Field
 ========================================================
 
+![](week1-figure/cropped-solar-logo1.png)
 
-```r
-summary(cars)
-```
+- First academic conference: 2011, Banff, Canada
+- First summer institute: 2013, Stanford University
+- First issue of its journal: 2014
 
-```
-     speed           dist    
- Min.   : 4.0   Min.   :  2  
- 1st Qu.:12.0   1st Qu.: 26  
- Median :15.0   Median : 36  
- Mean   :15.4   Mean   : 43  
- 3rd Qu.:19.0   3rd Qu.: 56  
- Max.   :25.0   Max.   :120  
-```
+Learning Analytics as a Field (cont'd)
+========================================================
+![](week1-figure/lak-sankey.png)
 
-Slide With Plot
+Unpacking Learning Analytics
+========================================================
+type: section
+
+Contrasts
+========================================================
+incremental: true
+
+- learning analytics vs. analysis of learning data
+- big vs. small / rich vs. poor
+
+
+A Knowledge Building Class
 ========================================================
 
-![plot of chunk unnamed-chunk-2](week1-figure/unnamed-chunk-2.png) 
+What does it mean?
+
+- collective responsibility
+- community discourse
+- solving authentic problems (vs. learning a technique)
+- production of something new
+
+Themes
+========================================================
+
+- Learning and Knowledge Growth
+- Social Networks
+- Mining of Text and Discourse
+- Temporality in Learning
+- Prediction and Intervention
+- ?
+
+KF Demo
+========================================================
+type: prompt
+
+[Knowledge Forum](http://kf.utoronto.ca:8080/kforum/home.xhtml)
+
+Other Courses on Learning Analytics
+========================================================
+
+- [Big Data in Education](https://www.coursera.org/course/bigdata-edu), Ryan Baker
+- [Data, Analytics, and Learning](https://courses.edx.org/courses/UTArlingtonX/LINK5.10x/), George Siemens, et al.
+
+How is this course different from other courses?
+
+Use them as additional resources!
+
+Logistics
+========================================================
+
+- Move to Rm 210F
+- Starting from 5pm??
+
+
