@@ -1,10 +1,6 @@
-LA-UMN
+Special Topics in Learning Analytics
 ======
 
-
-## Syllabus
-
-- [Draft, Jan 22](https://meefen.github.io/LA-UMN/CI5330_Sec002_LA_syllabus_draft_Jan21.docx)
 
 
 ## Slides
@@ -13,9 +9,10 @@ LA-UMN
 
 ## Knowledge Forum
 
-- [Link](http://kf.utoronto.ca:8080/kforum/home.xhtml)
+- [Link](kf.utoronto.ca:8080/kforum)
 - [Video tutorials](http://kf.utoronto.ca:8080/kforum/about)
 
 ## Social Media Dashboard
 
 - [Link](http://www.netvibes.com/laumn)
+- [Google+ Community](https://plus.google.com/u/1/communities/105833645291967441690
