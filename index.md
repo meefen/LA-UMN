@@ -5,11 +5,6 @@ layout: post
 
 # Special Topics in Learning Analytics
 
-## Syllabus
-
-- [Draft, Jan 22](https://meefen.github.io/LA-UMN/CI5330_Sec002_LA_syllabus_draft_Jan21.docx)
-
-
 ## Slides
 
 - [Week 1](https://meefen.github.io/LA-UMN/slides/week1.html)
@@ -22,3 +17,4 @@ layout: post
 ## Social Media Dashboard
 
 - [Link](http://www.netvibes.com/laumn)
+- [Google+ Community](https://plus.google.com/u/1/communities/105833645291967441690)
