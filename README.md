@@ -1,7 +1,9 @@
 Special Topics in Learning Analytics
 ======
 
+## Timeline
 
+- [Timeline (draft)](timeline.md)
 
 ## Slides
 
@@ -9,10 +11,10 @@ Special Topics in Learning Analytics
 
 ## Knowledge Forum
 
-- [Link](kf.utoronto.ca:8080/kforum)
+- [Link](http://kf.utoronto.ca:8080/kforum)
 - [Video tutorials](http://kf.utoronto.ca:8080/kforum/about)
 
-## Social Media Dashboard
+## Social Media
 
-- [Link](http://www.netvibes.com/laumn)
-- [Google+ Community](https://plus.google.com/u/1/communities/105833645291967441690
+- [Netvibes Dashboard](http://www.netvibes.com/laumn)
+- [Google+ Community](https://plus.google.com/u/1/communities/105833645291967441690)
