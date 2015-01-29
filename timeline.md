@@ -5,7 +5,7 @@ Course Timeline (draft)
 
 Readings (totally optional)
 
-- Scardamalia, M. and Bereiter, C. (2003). Knowledge building. In Guthrie, J. W., editor, Encyclopedia of education, volume 17, pages 1370–1373. Macmillan Reference, New York, NY, 2 edition.
+- Scardamalia, M. and Bereiter, C. (2003). [Knowledge building](http://ikit.org/fulltext/inpressKB.pdf). In Guthrie, J. W., editor, Encyclopedia of education, volume 17, pages 1370–1373. Macmillan Reference, New York, NY, 2 edition.
 - Woolley, A., et al. (2015, January). [Why Some Teams Are Smarter Than Others](http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html). New York Times.
 
 Learning Activities
@@ -47,7 +47,7 @@ Readings
 - Soland, J., Hamilton, L. S., and Stecher, B. M. (2013). [Measuring 21st century competencies: Guidance for educators](http://asiasociety.org/files/gcen-measuring21cskills.pdf). Report, Asia Society Global Cities Education network.
 -->
 
-- Binkley, M., Erstad, O., Herman, J., Raizen, S., Riple, M., Miller-Ricci, M., and Rumble, M. (2012). Defining 21st century skills. In Griffin, P., McGaw, B., and Care, E., editors, Assessment and Teaching of 21st Century Skills, chapter 2, pages 17–66. Springer.
+- Binkley, M., Erstad, O., Herman, J., Raizen, S., Riple, M., Miller-Ricci, M., and Rumble, M. (2012). Defining 21st century skills. In Griffin, P., McGaw, B., and Care, E., editors, [Assessment and Teaching of 21st Century Skills](http://www.springer.com/education+%26+language/book/978-94-017-9394-0), chapter 2, pages 17–66. Springer.
 - Shum, S. B. and Crick, R. D. (2012). [Learning dispositions and transferable competencies](http://oro.open.ac.uk/32823/). In Proceedings of the 2nd International Conference on Learning Analytics and Knowledge - LAK ’12, page 92, New York, New York, USA. ACM Press.
 - Dawson, S. and Siemens, G. (2014). [Analytics to literacies: The development of a learning analytics framework for multiliteracies assessment](http://www.irrodl.org/index.php/irrodl/article/view/1878/3006). International Review of Research in Open and Distance Learning, 15(4):284–305.
 
@@ -56,17 +56,18 @@ Activities
 
 - Watch video [Ken Robinson: Changing education paradigms](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
 - KF Discussion
+  - What are the important competencies you wish to assess? Can you think of how? Where are the gaps?
 
 #### __Week 4: Explore Hidden Assumptions: Epistemology, Pedagogy, Assessment, and Learning across Levels__
 
 Readings
 
 - Knight, S., Buckingham Shum, S., and Littleton, K. (2014). [Epistemology, assessment, pedagogy: where learning meets analytics in the middle space](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/3538). Journal of Learning Analytics, 1(2):23–47.
-- Stahl, G. (2013). Learning across Levels. International Journal of Computer-Supported Collaborative Learning, 8(1):1–12.
+- Stahl, G. (2013). [Learning across Levels](http://ijcscl.org/?go=contents&article=174). International Journal of Computer-Supported Collaborative Learning, 8(1):1–12.
 
 Activities
 
-- Virture meeting with our guest speaker, Simon Knight, Open University
+- Virtual meeting with our guest speaker, Simon Knight, Open University
 - KF discussion
 
 
