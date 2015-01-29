@@ -8,7 +8,7 @@ Special Topics in Learning Analytics
 ## Slides
 
 - [Week 1](https://meefen.github.io/LA-UMN/slides/week1.html)
-- [Week 1](https://meefen.github.io/LA-UMN/slides/week2.html)
+- [Week 2](https://meefen.github.io/LA-UMN/slides/week2.html)
 
 ## Knowledge Forum
 
