@@ -1,7 +1,7 @@
 Week 1 - Introduction
 ========================================================
 author: Bodong Chen
-date: January 21, 2015
+date: January 22, 2015
 
 ## Learning Analytics in the Knowledge Age
 
