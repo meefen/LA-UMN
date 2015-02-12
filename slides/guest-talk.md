@@ -198,6 +198,8 @@ But, Big + Rich Data
 
 <img src="imgs/rich-data.jpg" style="background-color:transparent; border:0px; box-shadow:none"></img>
 
+## An Emergent Data-Driven Culture
+
 The Deal!
 ========================================
 
@@ -288,6 +290,8 @@ title: false
 
 <img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/contrasts.jpg"></img>
 
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(<a href="http://www.slideshare.net/gsiemens/columbia-tc">Siemens, 2013</a>)</SPAN></div>
+
 Articulate Learning Analytics
 ========================================
 
@@ -309,11 +313,15 @@ Some Example Areas
 - Analytics on **intervention and adaptation**
 - **Evaluation** of analytics
 
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(Adapted from <a href="http://www.slideshare.net/gsiemens/columbia-tc">Siemens, 2013</a>)</SPAN></div>
+
 Examples
 ========================================
 title: false
 
 <img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-edm.jpg"></img>
+
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(<a href="http://www.slideshare.net/gsiemens/columbia-tc">Siemens, 2013</a>)</SPAN></div>
 
 Examples
 ========================================
@@ -321,6 +329,7 @@ title: false
 
 <img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-lak1.jpg"></img>
 
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(<a href="http://www.slideshare.net/gsiemens/columbia-tc">Siemens, 2013</a>)</SPAN></div>
 
 Techniques
 ========================================
@@ -352,50 +361,7 @@ title: false
 
 <img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/Learning-Analytics.png"></img>
 
-Examples http://www.slideshare.net/SocialBizForum/analytics-in-learning-and-knowledge-george-siemens
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-1.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-2.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-3.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-4.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-5.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-6.png"></img>
-
-Examples
-========================================
-title: false
-
-<img style="margin:0px; background-color:transparent; border:0px; box-shadow:none; width:100%" src="imgs/example-logic-7.png"></img>
-
-
-
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">A messy view of LA, produced in Week 1 of my #LAUMN class</SPAN></div>
 
 Important considerations
 ========================================
@@ -409,7 +375,7 @@ Important considerations
 - Transparency in learning analytics practice
 - Ethical practice
 
-> For Learners & Learning!
+## Learning Analytics is For Learners & Learning!
 
 <!--
 New Competencies
@@ -428,7 +394,7 @@ To advance as a field, LA researchers and practitioners need to address the foll
 3. target of analytics activity; and 
 4. connections to related fields and practitioners. 
 
-<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(Siemens, 2014, at LASI)</SPAN></div>
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(Siemens, 2014, at LASI 2014)</SPAN></div>
 
 You should get involved!
 ========================================
