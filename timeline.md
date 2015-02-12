@@ -75,12 +75,12 @@ Activities
 
 Readings
 
-- Scheuer, O. and McLaren, B. M. (2012). [Educational data mining](http://www.academia.edu/download/30948439/ScheuerMcLaren-EducationalDataMining-EncyOfLearningScience2011.pdf). In Ency- clopedia of the Sciences of Learning, pages 1075–1079. Springer.
-- Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17.
-- Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing teaching and learning through educational data mining and learning analytics](http://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf). Washington, DC: U.S. Department of Education.
+- Scheuer, O. and McLaren, B. M. (2012). [Educational data mining](http://www.oliver-scheuer.info/publications/ScheuerMcLaren-EducationalDataMining-Encyclopedia-2012-MANUSCRIPT.pdf) (or [link 2](http://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6_618)). In Encyclopedia of the Sciences of Learning, pages 1075–1079. Springer.
+- Baker, R.S.J.d., Yacef, K. (2009) [The State of Educational Data Mining in 2009: A Review and Future Visions](http://www.educationaldatamining.org/JEDM/index.php/JEDM/article/view/8). Journal of Educational Data Mining, 1 (1), 3-17.
+- Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing teaching and learning through educational data mining and learning analytics](http://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf). Washington, DC: U.S. Department of Education. __(Only pp. 25-36)__
 - Optional
-  - Romero, C., Ventura, S. (2007) A Survey from 1995 to 2005. Expert Systems with Applications, 33 (1), 135-146.
-  - Hey, A. J. G., Tansley, S., and Tolle, K. M. (2009). [The fourth paradigm: data-intensive scientific discovery](http://research.microsoft.com/en-us/collaboration/fourthparadigm/). Microsoft Research Redmond, WA.
+  - Romero, C., Ventura, S. (2007). [A Survey from 1995 to 2005](http://www.academia.edu/2662296/Educational_data_mining_A_survey_from_1995_to_2005). Expert Systems with Applications, 33 (1), 135-146.
+  - Hey, A. J. G., Tansley, S., and Tolle, K. M. (2009). [The fourth paradigm: data-intensive scientific discovery](http://research.microsoft.com/en-us/collaboration/fourthparadigm/). Microsoft Research Redmond, WA. __(Free PDF available)__
   - Resources from [Ryan Baker's "MOOT"](http://www.columbia.edu/~rsb2162/bigdataeducation.html)
 
 Activities
