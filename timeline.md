@@ -92,12 +92,12 @@ Activities
 
 Readings:
 
-- Arnold, K.E. (2010). Signals: Applying academic analytics. Educause Quarterly, 33, 1-10.
-- [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students)
+- Arnold, K.E. (2010). [Signals: Applying academic analytics](http://www.educause.edu/ero/article/signals-applying-academic-analytics). Educause Quarterly, 33, 1-10.
+- Wolff, A., & Zdrahal, Z. (2012). [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students). EDUCAUSE Review Online.
 
 Activities
 
-- Guest speaker TBD
+- Guest speakers: George Karypis & Jeff Grann
 - KF Discussion
 
 #### __Week 7: Data Wrangling Hands-on__
