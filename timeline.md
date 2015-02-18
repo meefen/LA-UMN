@@ -92,6 +92,7 @@ Activities
 
 Readings:
 
+- Grann, J., & Bushway, D. (2014). [Competency map: visualizing student learning to promote student success](http://dl.acm.org/citation.cfm?id=2567622&dl=ACM&coll=DL). In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 168–172). doi:10.1145/2567574.2567622
 - Arnold, K.E. (2010). [Signals: Applying academic analytics](http://www.educause.edu/ero/article/signals-applying-academic-analytics). Educause Quarterly, 33, 1-10.
 - Wolff, A., & Zdrahal, Z. (2012). [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students). EDUCAUSE Review Online.
 
