@@ -103,17 +103,24 @@ Activities
 
 #### __Week 7: Data Wrangling Hands-on__
 
-Readings: None
+Pre-class activities:
 
-Tools
-- R
-- Google Refine
-- Tableau
+- Watch: [Tony Hirst's talk](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182)
+- Read: [Data Fundamentals, Data Wrangling Handbook v0.1](http://datapatterns.readthedocs.org/en/latest/courses/index.html#data-fundamentals)
+- Skim: Kandel, S., Heer, J., Plaisant, C., Kennedy, J., van Ham, F., Riche, N. H., … Buono, P. (2011). Research Directions in Data Wrangling: Visualizations and Transformations for Usable and Credible Data. Information Visualization Journal, 10(4), 271–288. Retrieved from http://vis.stanford.edu/papers/data-wrangling
+- Install: [Data Science Studio (DSS)](http://www.dataiku.com/dss/trynow/)
+
+Suggested tools and tutorials if you want to explore
+- Spreadsheets ([tutorial](https://datapatterns.readthedocs.org/en/latest/recipes/cleaning-data-with-spreadsheets.html))
+- R ([tutorial](https://ramnathv.github.io/pycon2014-r/explore/README.html))
+- [Open Refine](http://openrefine.org/) ([tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources), [more by Hirst](http://blog.ouseful.info/tag/openrefine-2/))
+- [Data Science Studio](http://www.dataiku.com/dss/) ([tutorials](http://doc.dataiku.com/dss/latest/tutorials/index.html))
+- [Oinoi](http://oinoi.com/)
 
 Activities
-- Watch [Tony Hirst's talk](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182)
-- Meet with our guest speaker Stian Haklev, University of Toronto
 
+- Virtual meeting with [Stian Håklev](http://reganmian.net/), University of Toronto
+- Data wrangling with Ethan (R) & Bodong (DSS)
 
 #### __Week 8: Learning and Knowledge Growth (theme 1)__
 
