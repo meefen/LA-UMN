@@ -99,9 +99,11 @@ type: section
 
 by Ethan Brown
 
-Hands-on: Data Science Studio
+Data Wrangling Hands-on
 ========================================================
 type: section
+
+## Data Science Studio
 
 by Bodong Chen
 
@@ -130,9 +132,13 @@ Accessible Data
 ========================================================
 
 - [TDSB Learning Opportunity Index](http://www.tdsb.on.ca/AboutUs/Research/LearningOpportunitiesIndex.aspx) (in PDF)
-- [Ontario public school contact information](https://www.ontario.ca/data/ontario-public-school-contact-information) (in Excel)
+  - School name, ward, LOI scores and ranks for 2009, 2011, and 2014
+- [Ontario public school contact information](https://www.ontario.ca/data/ontario-public-school-contact-information) (in Excel/CSV)
+  - School name, school id, school level, school language, postal code
+- [Ontario public schools enrolment](https://www.ontario.ca/education-and-training/ontario-public-schools-enrolment) (in Excel/CSV)
+  - School id, school enrollment
 - [Canadian Postal Codes](http://geocoder.ca/?freedata=1) (in CSV)
-- [Ontario public schools enrolment](https://www.ontario.ca/education-and-training/ontario-public-schools-enrolment) (in Excel)
+  - Postal code, latitude, langitude, city
 
 Expected Challenges
 ========================================================
