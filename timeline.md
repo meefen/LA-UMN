@@ -95,6 +95,7 @@ Readings:
 - Grann, J., & Bushway, D. (2014). [Competency map: visualizing student learning to promote student success](http://dl.acm.org/citation.cfm?id=2567622&dl=ACM&coll=DL). In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 168–172). doi:10.1145/2567574.2567622
 - Arnold, K.E. (2010). [Signals: Applying academic analytics](http://www.educause.edu/ero/article/signals-applying-academic-analytics). Educause Quarterly, 33, 1-10.
 - Wolff, A., & Zdrahal, Z. (2012). [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students). EDUCAUSE Review Online.
+<!-- - Video:  Timothy D. Harfield, [Making a Case for Learning Analytics at Emory University](https://www.youtube.com/watch?v=J4rtBzYajjg) -->
 
 Activities
 
@@ -106,8 +107,10 @@ Activities
 Pre-class activities:
 
 - Watch: [Tony Hirst's talk](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182)
-- Read: [Data Fundamentals, Data Wrangling Handbook v0.1](http://datapatterns.readthedocs.org/en/latest/courses/index.html#data-fundamentals)
-- Skim: Kandel, S., Heer, J., Plaisant, C., Kennedy, J., van Ham, F., Riche, N. H., … Buono, P. (2011). Research Directions in Data Wrangling: Visualizations and Transformations for Usable and Credible Data. Information Visualization Journal, 10(4), 271–288. Retrieved from http://vis.stanford.edu/papers/data-wrangling
+- Readings
+  - [Data Fundamentals, Data Wrangling Handbook v0.1](http://datapatterns.readthedocs.org/en/latest/courses/index.html#data-fundamentals)
+  - (optional) Kandel, S., Heer, J., Plaisant, C., Kennedy, J., van Ham, F., Riche, N. H., … Buono, P. (2011). Research Directions in Data Wrangling: Visualizations and Transformations for Usable and Credible Data. Information Visualization Journal, 10(4), 271–288. Retrieved from http://vis.stanford.edu/papers/data-wrangling
+  - (optional) Clow, D. (2014). [Data wranglers: Human interpreters to help close the feedback loop](http://dl.acm.org/citation.cfm?id=2567603). In Proceedins of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 49–53). doi:10.1145/2567574.2567603
 - Install: [Data Science Studio (DSS)](http://www.dataiku.com/dss/trynow/)
 
 Suggested tools and tutorials if you want to explore
@@ -124,11 +127,14 @@ Activities
 
 #### __Week 8: Learning and Knowledge Growth (theme 1)__
 
-Suggested Readings
+Readings picked by SIG
 
-- Schwarz, C. V., Reiser, B. J., Davis, E. A., Kenyon, L., Acher, A., Fortus, D., Shwartz, Y., Hug, B., and Krajcik, J. (2009). Developing a learning progression for scientific modeling: Making scientific modeling accessible and meaningful for learners. Journal of Research in Science Teaching, 46(6):632–654.
 - Bull, S. and Kay, J. (2010). Open learner models. In Nkambou, R., Bordeau, J., and Miziguchi, R., editors, Advances in Intelligent Tutoring Systems, chapter 15, pages 318–338. Springer.
 - Desmarais, M. C., & Baker, R. S. J. d. (2011). A review of recent advances in learner and skill modeling in intelligent learning environments. User Modeling and User-Adapted Interaction, 22(1-2), 9–38. doi:10.1007/s11257-011-9106-8
+- Optional
+  - Suhirman, S., Herawan, T., Chiroma, H., & Zain, J. M. (2014). [Data Mining for Education Decision Support: A Review](http://journals.sfu.ca/onlinejour/index.php/i-jet/article/view/3950). *International Journal of Emerging Technologies in Learning (iJET), 9(6)*, 4-19.
+  - van De Sande, B. (2013). Properties of the bayesian knowledge tracing model. Journal of Educational Data Mining, 5(2), 1-10.
+  - Chen, M. H., Zhang, J., & Lee, J. (2013). [Making collective progress visible for sustained knowledge building](http://tccl.rit.albany.edu/wpsite/wp-content/uploads/2013/03/CSCL13_ITM_zhangetalFinal_proceeding-rev.pdf). In Proceedings of CSCL 2013.
 
 Activities: To be designed by SIG 1
 
