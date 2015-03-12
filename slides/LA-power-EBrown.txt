@@ -1,0 +1,359 @@
+--bgcolor red
+--fgcolor black
+
+--date today
+
+--color white
+--huge W O W!
+
+--color yellow
+T H E  P O W E R  O F  P L A I N  T E X T ! ! ! !
+
+--newpage
+--bgcolor white
+--color black
+--heading OFFICIAL ENDORSEMENT
+.............~O88DNMMNMMMNMMMMMMMMMMMMMNNNNND8OZOZ$$I77III??++++=...............
+.............=NNNMMMMMMMMMMMMMMMMMMMMMMMNNMNND888ZOZ777II??++====...............
+.............=MMMMMMMMMMMMMMMMMMMMMMNNMMNNNNNNNND8ZOO777II??++===...............
+.............+MMNMMMMMMMMMMMMMMMMNNNDDDDDDNNDDDDD888OZ77I??+++++=...............
+.............=NNMMMMMMMMMMMNNNNNNNDDNDDD8O8888DD8888DO$II?+++++++...............
+.............=NNMMMMMMMMNNNNNDDDD8OZOOOOZ$ZZZZZOO88D88OZI???+??I?...............
+.............=NNNMMMMMMMND8OOZZZZ$777I77IIIIIIII$$O8DDOO7IIII7$77...............
+.............=NNMMMMMMND8OZ$$$777II???I???++++????I?7OOZII77$ZZ$$...............
+.............=MNMMMMMND8OZZ$$7777III???++++========~~:+$Z$$$$ZZZZ...............
+.............+NNNMMMMND8ZZZ$$77777I???+++++======~~~~:~+O$$$ZZZZZ...............
+.............=NMMMMMMND8ZZZZ$$7777I???++?+======~~~~~~~~$$$$ZZZZZ...............
+.............=NMNMNMMMD8OZZZ$$77777I?+++++====~~~~~~:~~~IZ$$ZZZZZ...............
+.............=MMNMNNNND8OZZZ$$$7777I?++++=======~~~~:~~~+Z$ZZZZZZ...............
+.............+MMMMMNNNDD8OZZZ$$$$$77I?+++~~==+=======~::~ZZZZZOOO........................
+.............+MMMMMMNND8OOZZZZ$$$77II????++++?????I7$7II=7OOOOOOO.......        	 ...
+.............+MMMMMMMN8OOZZZZ$Z$ZZZZZ$77II?IIII7$ZZZ7III+77~OOOOO.....          	   ..
+.............+MMMMMMMDOOZZZZO88OOOZZOOOOO$$7I77$$Z$$$$7??7$DOOOOO....           	    ..
+.............+MMMMMMMN8OOOOOOOOO$$7I7$ZZOOOZII$O$ZDNO77I=?IOOOOOO....           	     ..
+.............~ODNNMMMMMMMMMNMMN8ODD8IZO$ZZODO$OZI7$$7I++=,:ZOOOOO...     P L A I N 	      .
+............,=8OOONNMN8OO888DNZ8OZZ$I7777Z8OI=I8+?II?+++=:+OO8OOO...              	      .
+..........,..=ZO8O8DNN8OOOZZZZZ$ZZ$$$7I?I$OOI=~I7++++++++=~Z8888O.,.     T E X T	      .
+.............~ZZODO8D8OOZZZ$ZZZ77II??III7$Z7I+~~=??+++===~=Z8888O...             	      .
+...........,.~$O888O8OOOZZZZ$$$$Z$$$$$$$ZZZ$7I=~~=?++++====ZOO888....      IS   	      .
+...........,.~$ZZODOOOOOOZZZZ$$7I?+++?I7ZZZ$77+=~~=?I??++=+OOOO8..              	      .
+.............=$$OO88OOOOOZZZZZ$$7I???II$O$$$$$I?=?+?I7II+=7OOOO..         T H E       	     ..
+...........,.,:IZZZOOOOOOOZZZZZ$$7IIII$$O8O888Z$?+=+?II7I~$$ZZ..                 	   ...
+....,,,,,,,,.,..,7ZZOO8OOZZZZZZZ$$7777$$$$Z$$7I7+====+???~+?I..          B E X T ! !	....
+,,,,,,,,,,,..,..,,ZONN8OOZZZZZZZZ$7777777777I?+++++=++++=::..=                         ..
+,,,,,,,,,,,,,:.,,,?IDD8OOZZ$$$$$Z$77I$$$$$$Z$Z7II77ZI++=~..                         ...
+,,,,,,,,,,,,,,...,~?8DD8OOZZ$$$$$Z77I$DD88ZZ$7?I.?I..                            ....
+,,,,,,,,,,,,,,...,::ZD88OOOZZZ$$$ZZ$II7$ZZZZ$II7....   .    ,,,,  ,,,,,,,,,,,,....
+,,,,,,,,,,,,,,...,,,7DD88OOOOOZZZ$ZZ$7I7$ZZ$I++++?+===,.........................
+,,,,,,,,,,,,,:.,,,~NZ8D888888OOZZZZZ$$$77$OOZZ$$7?+=~:.,,,,,,,,,,,,,,,,,,,,,,,,.
+,,,,,,,,,,,,,:,,,,8MMN$7$88DD888OOOZZ$$$777777II?++=~,,,,,,,,,,,,:,,,,,,,,,,,,,.
+,,,,,,,,,,,,,:,,,=MMMMMN8II7ODDD88OOOZ$$$I???+++====,,,,,,,,,,,,,:,,,,,,,,,,,,,.
+,,,,,,,,,,,,,:,,:NMMMMMMMMD7II$ZDD8888OZ$$II??+++++~,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+,,,,,,,,,,,,,:,,8NMNMMMMNNMMN??+?7O88O888OZ$$7III?:,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+--newpage
+--bgcolor red
+--color white
+--heading Graphical interfaces:
+
+ * Computers come a long way to meet humans
+
+---
+
+              -----
+             /     \
+            /       \
+            |       |
+            \       /
+             \     /
+              --+--
+                |
+                |
+          ------+------
+                |
+                |
+                |
+                |
+                X
+               / \-
+              /    \
+             /      \-
+            /         \
+
+--right     +--------------+
+--right     |              |
+--right     |              |
+--right     |              |
+--right     |              |
+--right     +------+-------+
+--right            |
+--right     \------+-----------
+--right      \-                \
+--right        \-----------------
+
+--beginslideright
+<-------------------------------------
+--endslideright
+--newpage
+--heading Graphical interfaces:
+
+ * Computers come a long way to meet humans
+
+              -----
+             /     \
+            /       \
+            |       |
+            \       /
+             \     /
+              --+--
+                |
+                |
+          ------+------
+                |
+                |
+                |
+                |
+                X
+               / \-
+              /    \
+             /      \-
+            /         \
+
+     +--------------+
+     |              |
+     |              |
+     |              |        <---------------------------------
+     |              |
+     +------+-------+
+            |
+     \------+-----------
+      \-                \
+        \-----------------
+---
+--color cyan
+ * This can be very very nice!
+--color magenta
+---
+ * But so much of the effort is in making this journey...
+---
+ * ...rather than on whatever we actually need the computer to do
+--newpage
+--bgcolor blue
+--color white
+--heading This added complexity comes at a cost
+
+---
+ * lack of transparency of what generated the results
+--color white
+
+        /-- o
+     ---    ---
+    /          \-
+   /\           /
+     --       -/
+             /
+           |
+           |
+           |
+
+          +-+
+          +-+
+
+---
+ * Very difficult for program to interact with other programs
+
+     +--------------+                          +--------------+
+     |              |                /         |   \     /    |
+     |  o       o   |      ---      /      --- |   o     o    |
+     |    -----     |      -------- | /---/    |      X       |
+     |   /     \    |          X-------        |     /|\      |
+     +------+-------+      ----    | \----     +------+-------+
+            |                     /                   |
+     \------+-----------          |            \------+-----------
+      \-                \        /              \-                \
+        \-----------------                        \-----------------
+
+--newpage
+--bgcolor blue
+--color white
+--heading This added complexity comes at a cost
+
+
+
+
+
+
+
+
+
+ * Difficult to modify or configure in ways that the author didn't intend
+
+
+
+
+
+
+
+        -----                              -----
+       /     \                            /     \
+      / o  o  \                          / o  o  \
+      |       |                          |       |
+      |  ---  |                          |  ---  |
+      \ /   \ /                          \ /   \ /
+       \--+--/                 /          \--+--/
+          |          ---      /      ---     |
+          |          -------- | /---/        |
+    ------+------        X-------       -----+------
+          |          ----    | \----         |
+          |                 /                |
+          |                 |                |
+          |                /                 |
+          X        -                         X
+         / \-                               / \-
+        /    \                             /    \
+       /      \-                          /      \-
+      /         \                        /         \
+--bgcolor red
+--newpage
+
+
+--color yellow
+H O W
+--color green
+T O
+--color cyan
+M A K E
+--color magenta
+T H I S
+--color white
+B E T T E R ? ! ? ! ? ! ? !
+---
+--color magenta
+
+
+
+
+
+
+
+
+You guessed it...
+--color yellow
+
+
+ _______  _        _______ _________ _
+(  ____ )( \      (  ___  )\__   __/( (    /|
+| (    )|| (      | (   ) |   ) (   |  \  ( |
+| (____)|| |      | (___) |   | |   |   \ | |
+|  _____)| |      |  ___  |   | |   | (\ \) |
+| (      | |      | (   ) |   | |   | | \   |
+| )      | (____/\| )   ( |___) (___| )  \  |
+|/       (_______/|/     \|\_______/|/    )_)
+
+_________ _______          _________
+\__   __/(  ____ \|\     /|\__   __/
+   ) (   | (    \/( \   / )   ) (
+   | |   | (__     \ (_) /    | |
+   | |   |  __)     ) _ (     | |
+   | |   | (       / ( ) \    | |
+   | |   | (____/\( /   \ )   | |
+   )_(   (_______/|/     \|   )_(
+
+--newpage
+--bgcolor blue
+--color white
+--heading Plain text is where humans and computers meet
+--color red
+
+								       -----
+								      /     \
+								     /       \
+								     |       |
+								     \       /    /----    /---         +--------------+
+								      \     /   -/     \  /    \        |              |
+								       --+--   /        \/      X       |              |
+								         |     \               /        |              |
+								         |      \-   TEXT!!   /         |              |
+								   ------+------  \-         /          +------+-------+
+								         |          \       /                  |
+								         |           \-    /            \------+-----------
+								         |             \- /              \-                \
+								         |               X                 \-----------------
+								         X
+								        / \-
+								       /    \
+								      /      \-
+								     /         \
+
+
+--color yellow
+---
+
+  * Transparent and precise to specify things in text files, have computer compile into desired output
+---
+
+  * Many tools for working with plain text, a standard format
+---
+  * Human readable...
+--color green
+--huge FOREVER
+--color yellow
+unlike proprietary formats that become obselete.
+---
+--color red
+  * Changes are easy to track
+---
+--color white
+  * Easy to make reproducible research (text is precise and you simply recompile your result)
+
+
+--newpage
+--bgcolor green
+--color white
+--heading Plain text is where COMPUTERS and computers meet
+--color red
+
+							                                /----    /---         +--------------+
+							      +--------------+        -/     \  /    \        |              |
+							      |              |       /        \/      X       |              |
+							      |              |       \               /        |              |
+							      |              |        \-   TEXT!!   /         |              |
+							      |              |          \-         /          +------+-------+
+							      +------+-------+            \       /                  |
+							             |                     \-    /            \------+-----------
+							      \------+-----------            \- /              \-                \
+							       \-                \             X                 \-----------------
+							         \-----------------
+
+
+---
+--color yellow
+  * Computers can reinterpret text generated for a specific purpose and use it in new ways
+
+---
+--color blue
+  * Creating many different kinds of outputs based on abstract structure
+
+---
+--color magenta
+  * You can write code that generates more code or inserts code into another text file
+
+     ** Softwares that know NOTHING about each other can communicate!
+     ** This means you can embed & mix different kinds of processing on the same text file
+     ** This allows you to create reproducible research reports (e.g. R Markdown)
+
+
+--newpage
+--bgcolor black
+--color white
+--header Conclusion
+
+---
+--huge H U G 
+---
+--huge S O M E
+---
+--huge P L A I N
+---
+--huge T E X T
+---
+--huge TODAY!!!!!!!

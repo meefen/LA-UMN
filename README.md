@@ -14,6 +14,7 @@ Special Topics in Learning Analytics
 - [Week 5](https://meefen.github.io/LA-UMN/slides/week5.html)
 - [Week 7](https://meefen.github.io/LA-UMN/slides/week7.html)
   - Stian Haklev: [video](https://www.youtube.com/watch?v=4_BR17BJTlA&feature=youtu.be), [slides](https://meefen.github.io/LA-UMN/slides/DataWrangling_Haklev.pdf), [blog post](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
+  - Ethan Brown: [Messy Challenge of Data Science](https://meefen.github.io/LA-UMN/slides/Messy-Challenge-of-Data-Science-EBrown.pdf), [Power of Pure Text](https://meefen.github.io/LA-UMN/slides/LA-power-EBrown.txt)
   - DSS Demo by Bodong: [video](https://www.youtube.com/watch?v=uNYrjeoPFGU)
 
 ## Knowledge Forum
