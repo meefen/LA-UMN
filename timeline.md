@@ -150,7 +150,6 @@ Suggested Readings
 - Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
 - Oshima, J., Oshima, R., and Matsuzawa, Y. (2012). Knowledge Building Discourse Explorer: a social network analysis application for knowledge building discourse. Educational Technology Research and Development, 60(5):903–921.
 - Chen, B., Chen, X, & Xing, W. (2013). Twitter Archeology of Learning Analytics and Knowledge Conferences. Paper to be presented at the 2015 Learning Analytics and Knowledge Conference.
-- - [Social Networks Adapting Pedagogical Practice
 
 Activities: To be designed by SIG 2
 
@@ -179,26 +178,6 @@ Suggested Tools
 - ManyEyes
 - LightSIDE
 - RapidMiner
-
-<!--
-#### __Week 12: Temporality in Learning (theme 4)__
-
-Suggested Readings
-
-<!--
-- Zhang, J., Lee, J., and Wilde, J. (2012). Metadiscourse to foster student collective responsibility for deepening inquiry. In van Aalst, J., Thompson, K., Jacobson, M. J., and Reimann, P., editors, The future of learning: Proceedings of the 10th international conference of the learning sciences (ICLS 2012) - Volume 1, Full Papers, pages 395–402. ISLS, Sydney, Australia.
-- Resendes, M., Chen, B., Acosta, A., and Scardamalia, M. (2013). The Effect of Formative Feedback on Vocabulary Use and Distribution of Vocabulary Knowledge in a Grade Two Knowl- edge Building Class. In Rummel, N., Kapur, M., Nathan, M., and Puntambekar, S., editors, To See the World and a Grain of Sand: Learning across Levels of Space, Time, and Scale: CSCL 2013 Conference Proceedings Volume 1 - Full Papers & Symposia, pages 391–398. International Society of the Learning Sciences.
-- Graesser, A. C. and McNamara, D. S. (2011). Computational analyses of multilevel discourse comprehension. Topics in Cognitive Science, 3(2):371–398.
--->
-
-- Reimann, P. (2009). Time is precious: Variable-and event-centred approaches to process analysis in CSCL research. International Journal of Computer-Supported Collaborative Learning, 4(3):239– 257.
-- Kinnebrew, J., Segedy, J., and Biswas, G. (2014). Analyzing the temporal evolution of students’ behaviors in open-ended learning environments. Metacognition and Learning, 9(2):187–215.
-- Magnusson, M. S. (2000). Discovering hidden time patterns in behavior: T-patterns and their detection. Behavior Research Methods, Instruments, & Computers, 32(1):93–110.
-- Chen, B. and Resendes, M. (2014). Uncovering what matters: Analyzing transitional relations among contribution types in knowledge-building discourse. In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14, pages 226–230, New York, New York, USA. ACM Press.
-
-Activities: To be designed by SIG 4
-
--->
 
 #### __Week 12: Prediction and Intervention (theme 4)__
 
