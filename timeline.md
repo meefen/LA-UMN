@@ -129,14 +129,16 @@ Activities
 
 Readings picked by SIG
 
-- Bull, S. and Kay, J. (2010). Open learner models. In Nkambou, R., Bordeau, J., and Miziguchi, R., editors, Advances in Intelligent Tutoring Systems, chapter 15, pages 318–338. Springer.
-- Desmarais, M. C., & Baker, R. S. J. d. (2011). A review of recent advances in learner and skill modeling in intelligent learning environments. User Modeling and User-Adapted Interaction, 22(1-2), 9–38. doi:10.1007/s11257-011-9106-8
+- Bull, S. and Kay, J. (2010). Open learner models. In Nkambou, R., Bordeau, J., and Miziguchi, R., editors, _Advances in Intelligent Tutoring Systems, chapter 15, pp. 318–338_. Springer.
+- Desmarais, M. C., & Baker, R. S. J. d. (2011). A review of recent advances in learner and skill modeling in intelligent learning environments. _User Modeling and User-Adapted Interaction, 22(1-2)_, 9–38. doi:10.1007/s11257-011-9106-8
 - Optional
   - Suhirman, S., Herawan, T., Chiroma, H., & Zain, J. M. (2014). [Data Mining for Education Decision Support: A Review](http://journals.sfu.ca/onlinejour/index.php/i-jet/article/view/3950). *International Journal of Emerging Technologies in Learning (iJET), 9(6)*, 4-19.
-  - van De Sande, B. (2013). Properties of the bayesian knowledge tracing model. Journal of Educational Data Mining, 5(2), 1-10.
+  - van De Sande, B. (2013). [Properties of the bayesian knowledge tracing model](http://www.educationaldatamining.org/JEDM/index.php/JEDM/article/view/35). _Journal of Educational Data Mining, 5(2)_, 1-10.
   - Chen, M. H., Zhang, J., & Lee, J. (2013). [Making collective progress visible for sustained knowledge building](http://tccl.rit.albany.edu/wpsite/wp-content/uploads/2013/03/CSCL13_ITM_zhangetalFinal_proceeding-rev.pdf). In Proceedings of CSCL 2013.
 
-Activities: To be designed by SIG 1
+Activities:
+
+- Khan Academy
 
 #### __Week 9: Spring Break; NO CLASS__
 
@@ -161,6 +163,8 @@ Suggested Tools
 
 ### __Week 11: Mining of Text and Discourse (theme 3)__
 
+__Tentative WG proposal due__
+
 Suggested Readings
 
 - Rohrer, R., Ebert, D., and Sibert, J. (1998). The shape of Shakespeare: visualizing text using implicit surfaces. In Proceedings of IEEE Symposium on Information Visualization, pages 121–129. IEEE Comput. Soc.
@@ -176,6 +180,7 @@ Suggested Tools
 - LightSIDE
 - RapidMiner
 
+<!--
 #### __Week 12: Temporality in Learning (theme 4)__
 
 Suggested Readings
@@ -193,9 +198,9 @@ Suggested Readings
 
 Activities: To be designed by SIG 4
 
-#### __Week 13: AERA; Group/Individual Study__
+-->
 
-#### __Week 14: Prediction and Intervention (theme 5)__
+#### __Week 12: Prediction and Intervention (theme 4)__
 
 Suggested Readings
 
@@ -206,12 +211,23 @@ Suggested Readings
 
 Activities: To be designed by SIG 5
 
-<!-- ### Classroom Interventions with Learning Analytics -->
+#### __Week 13: AERA; Group/Individual Study__
 
-#### __Week 15 and 15: WG Presentations and Reflection__
+#### __Week 14: Applying LA in Educator Practice (theme 5)__
+
+Suggested Readings
+
+- Wise, A. F. (2014). Designing pedagogical interventions to support student use of learning analytics. In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 203–211). New York, New York, USA: ACM Press. doi:10.1145/2567574.2567588
+
+#### __Week 15: WG Working on the Final Project; NO CLASS Meeting__
+
+Virtual consultation with the instructor, if needed
+
+#### __Week 16: WG Presentations and Reflection__
 
 Activities
+
 - WGs present their group projects
 - Reflection and celebration!
 
-__Final individual reflection assignment due by May 15, 2015.__
+__Final individual reflection assignment & the WG project artifact due by May 15, 2015.__
