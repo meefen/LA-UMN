@@ -95,7 +95,8 @@ Readings:
 - Grann, J., & Bushway, D. (2014). [Competency map: visualizing student learning to promote student success](http://dl.acm.org/citation.cfm?id=2567622&dl=ACM&coll=DL). In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 168–172). doi:10.1145/2567574.2567622
 - Arnold, K.E. (2010). [Signals: Applying academic analytics](http://www.educause.edu/ero/article/signals-applying-academic-analytics). Educause Quarterly, 33, 1-10.
 - Wolff, A., & Zdrahal, Z. (2012). [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students). EDUCAUSE Review Online.
-<!-- - Video:  Timothy D. Harfield, [Making a Case for Learning Analytics at Emory University](https://www.youtube.com/watch?v=J4rtBzYajjg) -->
+
+<!-- Video:  Timothy D. Harfield, [Making a Case for Learning Analytics at Emory University](https://www.youtube.com/watch?v=J4rtBzYajjg) -->
 
 Activities
 
@@ -144,20 +145,18 @@ Activities:
 
 #### __Week 10: Social Networks (theme 2)__
 
-Suggested Readings
+Readings picked by SIG
 
+- Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding classrooms through social network analysis: A primer forsocial network analysis in education research. CBE-Life Sciences Education, 13(2), 167-178.
 - Haythornthwaite, C. (1996). Social network analysis: An approach and technique for the study of information exchange. Library & Information Science Research, 18(4):323–342.
-- Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178. doi:10.1187/cbe.13-08-0162
 - Oshima, J., Oshima, R., and Matsuzawa, Y. (2012). Knowledge Building Discourse Explorer: a social network analysis application for knowledge building discourse. Educational Technology Research and Development, 60(5):903–921.
-- Chen, B., Chen, X, & Xing, W. (2013). Twitter Archeology of Learning Analytics and Knowledge Conferences. Paper to be presented at the 2015 Learning Analytics and Knowledge Conference.
 
-Activities: To be designed by SIG 2
+SIG website: [https://sites.google.com/a/umn.edu/social-network-analysis/](https://sites.google.com/a/umn.edu/social-network-analysis/)
 
-Suggested Tools
+Tools
 
-- Gephi
-- [SNAPP](http://www.snappvis.org/)
-- [Condor](http://www.ickn.org/download.html)
+- [Gephi](http://gephi.github.io/)
+- [Netlytic](https://netlytic.org/home/)
 - [KBDeX](http://www.kbdex.net/)
 
 ### __Week 11: Mining of Text and Discourse (theme 3)__
@@ -178,14 +177,15 @@ Suggested Tools
 - ManyEyes
 - LightSIDE
 - RapidMiner
+- [ProM](http://www.processmining.org/prom/start) - process mining
 
 #### __Week 12: Prediction and Intervention (theme 4)__
 
 Suggested Readings
 
 - Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013). Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. In Proceedings of the 3rd International Conference on Learning Analytics and Knowledge.
-<!-- - DeBoer, J. and Breslow, L. (2014). Tracking progress: Predictors of students’ weekly achievement during a circuits and electronics mooc. In Proceedings of the First ACM Conference on Learning @ Scale Conference, L@S ’14, pages 169–170, New York, NY, USA. ACM.
-- Kloft, M., Stiehler, F., Zheng, Z., and Pinkwart, N. (2014). Predicting mooc dropout over weeks using machine learning methods. In Modeling Large Scale Social Interaction in Massively Open Online Courses Workshop (EMNLP 2014).-->
+- DeBoer, J. and Breslow, L. (2014). Tracking progress: Predictors of students’ weekly achievement during a circuits and electronics mooc. In Proceedings of the First ACM Conference on Learning @ Scale Conference, L@S ’14, pages 169–170, New York, NY, USA. ACM.
+- Kloft, M., Stiehler, F., Zheng, Z., and Pinkwart, N. (2014). Predicting mooc dropout over weeks using machine learning methods. In Modeling Large Scale Social Interaction in Massively Open Online Courses Workshop (EMNLP 2014).
 - Baker, R. S. J. d., D’Mello, S. K., Rodrigo, M. M. T., & Graesser, A. C. (2010). Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective states during interactions with three different computer-based learning environments. International Journal of Human-Computer Studies, 68(4), 223–241. doi:10.1016/j.ijhcs.2009.12.003
 
 Activities: To be designed by SIG 5
