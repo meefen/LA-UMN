@@ -1,5 +1,20 @@
 Special Topics in Learning Analytics
-======
+====================================
+
+- CI 5330 Section 002: Learning Analytics in the Knowledge Age
+- Spring 2015, Thursday, 5:30pm – 8:00pm
+- LES 210F, St. Paul Campus
+
+## Course Description
+
+### Overview
+
+Learning analytics is a nascent field of research that aspires to "turn educational data into actionable knowledge, in order to optimize learning and the environments in which it occurs." This course aims to provide a general, non-technical survey of learning analytics, as well as its application in various educational contexts. In particular, we will discuss foundations of the field, explore new forms of assessment, become acquainted with popular data mining techniques, review learning analytical tools and cases, and design/develop new analytic tools by ourselves—all with emphasis on emergent competencies in the knowledge age. Additional supports will be provided for students interested in pursuing specific issues in any of these areas. Overall, this will be a great course for getting a broad overview of the field of learning analytics.
+
+### Audience
+
+The course is designed for a broad audience. All graduate students interested in learning analytics and its application in specific educational areas (e.g., STEM, literacies, life-long learning) are welcomed.
+Prerequisites: None, but some prior knowledge in learning theories, assessment, and/or data science recommended.
 
 ## Timeline
 
