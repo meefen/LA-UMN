@@ -2,6 +2,7 @@ Special Topics in Learning Analytics
 ====================================
 
 - CI 5330 Section 002: Learning Analytics in the Knowledge Age
+- Instruction: [Dr. Bodong Chen](http://meefen.github.io/)
 - Spring 2015, Thursday, 5:30pm – 8:00pm
 - LES 210F, St. Paul Campus
 
@@ -31,9 +32,12 @@ Prerequisites: None, but some prior knowledge in learning theories, assessment, 
   - Stian Haklev: [video](https://www.youtube.com/watch?v=4_BR17BJTlA&feature=youtu.be), [slides](https://meefen.github.io/LA-UMN/slides/DataWrangling_Haklev.pdf), [blog post](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
   - Ethan Brown: [Messy Challenge of Data Science](https://meefen.github.io/LA-UMN/slides/Messy-Challenge-of-Data-Science-EBrown.pdf), [Power of Pure Text](https://meefen.github.io/LA-UMN/slides/LA-power-EBrown.txt)
   - DSS Demo by Bodong: [video](https://www.youtube.com/watch?v=uNYrjeoPFGU)
-- Week 8: SIG 1: Learning and Knowledge Growth
-- Week 10: [SIG 2: Social Networks](https://sites.google.com/a/umn.edu/social-network-analysis/home)
-- Week 11: SIG 3: Mining of Text and Discourse
+- Week 8: SIG 1 - Learning and Knowledge Growth
+- Week 10: [SIG 2 - Social Networks](https://sites.google.com/a/umn.edu/social-network-analysis/home)
+- Week 11: SIG 3 - Mining of Text and Discourse: [slides](https://www.powtoon.com/show/b9zLwDOl5cI/sig-presentation/), [LightSide demo](https://meefen.github.io/LA-UMN/slides/SIG3-LightSide-Example.pdf)
+- Week 12: SIG 4 - Prediction and Intervention
+- Week 14: SIG 5 - Applying LA in Educator Practice
+- Week 16: WG Presentations
 
 ## Knowledge Forum
 
