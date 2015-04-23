@@ -26,7 +26,7 @@ Prerequisites: None, but some prior knowledge in learning theories, assessment, 
 - [Week 1](https://meefen.github.io/LA-UMN/slides/week1.html)
 - [Week 2](https://meefen.github.io/LA-UMN/slides/week2.html)
 - [Week 3](https://meefen.github.io/LA-UMN/slides/week3.html)
-- [(not really) Week 4: my guest talk in Angel's class](https://meefen.github.io/LA-UMN/slides/guest-talk.html)
+- [Week 4 (sort of): Bodong's guest talk in Angel's class](https://meefen.github.io/LA-UMN/slides/guest-talk.html)
 - [Week 5](https://meefen.github.io/LA-UMN/slides/week5.html)
 - [Week 7](https://meefen.github.io/LA-UMN/slides/week7.html)
   - Stian Haklev: [video](https://www.youtube.com/watch?v=4_BR17BJTlA&feature=youtu.be), [slides](https://meefen.github.io/LA-UMN/slides/DataWrangling_Haklev.pdf), [blog post](http://reganmian.net/blog/2014/10/14/starting-data-analysiswrangling-with-r-things-i-wish-id-been-told/)
@@ -35,7 +35,7 @@ Prerequisites: None, but some prior knowledge in learning theories, assessment, 
 - Week 8: SIG 1 - Learning and Knowledge Growth
 - Week 10: [SIG 2 - Social Networks](https://sites.google.com/a/umn.edu/social-network-analysis/home)
 - Week 11: SIG 3 - Mining of Text and Discourse: [slides](https://www.powtoon.com/show/b9zLwDOl5cI/sig-presentation/), [LightSide demo](https://meefen.github.io/LA-UMN/slides/SIG3-LightSide-Example.pdf)
-- Week 12: SIG 4 - Prediction and Intervention
+- Week 12: SIG 4 - Prediction and Intervention: [slides](https://meefen.github.io/LA-UMN/slides/SIG-4.pdf), [demo](https://meefen.github.io/LA-UMN/slides/SIG-4_Agorista.pdf)
 - Week 14: SIG 5 - Applying LA in Educator Practice
 - Week 16: WG Presentations
 

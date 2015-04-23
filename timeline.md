@@ -181,22 +181,38 @@ Suggested Tools
 
 #### __Week 12: Prediction and Intervention (theme 4)__
 
-Suggested Readings
+Required: 
 
-- Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013). Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. In Proceedings of the 3rd International Conference on Learning Analytics and Knowledge.
-- DeBoer, J. and Breslow, L. (2014). Tracking progress: Predictors of students’ weekly achievement during a circuits and electronics mooc. In Proceedings of the First ACM Conference on Learning @ Scale Conference, L@S ’14, pages 169–170, New York, NY, USA. ACM.
-- Kloft, M., Stiehler, F., Zheng, Z., and Pinkwart, N. (2014). Predicting mooc dropout over weeks using machine learning methods. In Modeling Large Scale Social Interaction in Massively Open Online Courses Workshop (EMNLP 2014).
-- Baker, R. S. J. d., D’Mello, S. K., Rodrigo, M. M. T., & Graesser, A. C. (2010). Better to be frustrated than bored: The incidence, persistence, and impact of learners’ cognitive–affective states during interactions with three different computer-based learning environments. International Journal of Human-Computer Studies, 68(4), 223–241. doi:10.1016/j.ijhcs.2009.12.003
+- Usamah bin Mat, Norlida Buniyamin, Pauziah Mohd Arsad, RosniAbu Kassim (2013). An Overview of Using Academic Analytics to Predict and Improve Students' Achievement: A Proposed Proactive Intelligent Intervention. IEEE 5th Conference on Engineering Education (ICEED) http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908316&tag=1
+- Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013). Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. In Proceedings of the 3rd International Conference on Learning Analytics and Knowledge. http://www.columbia.edu/~mzs2106/research/LAK2013.pdf 
+- Nguyen Thai-Nghe , Lucas Drumond, Tomas Horvath, and Lars Schmidt-Thieme (2012). Using Factorization Machines for Student Modeling. http://ceur-ws.org/Vol-872/factmod2012_paper_4.pdf 
 
-Activities: To be designed by SIG 5
+Optional: 
+
+- Manuel Ángel Jiménez-Gómez, José María Luna, Cristóbal Romero, Sebastián Ventura (2015). Discovering Clues to Avoid Middle School Failure at Early Stages.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723597&CFID=475348647&CFTOKEN=18794396
+- Asmaa Elbadrawy, R. Scott Studham, George Karypis (2015). Collaborative Multi-Regression Models for Predicting Students’ Performance in Course Activities.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723590&CFID=475348647&CFTOKEN=18794396 
+
 
 #### __Week 13: AERA; Group/Individual Study__
 
 #### __Week 14: Applying LA in Educator Practice (theme 5)__
 
-Suggested Readings
+Pre-class activities, by group
+- K-12
+  - Required video: https://www.youtube.com/watch?v=27UW5DKRpOg
+  - Optional readings: [1](http://www.edweek.org/ew/articles/2014/10/15/08hamer.h34.html) OR [2](http://www.edutopia.org/blog/personalized-learning-big-data-schools-matt-levinson) OR [3](http://www.hmhco.com/~/media/sites/home/teachers/files/hmh-cde_issue%20brief_dataanalytics.pdf?la=en OR https://www.edsurge.com/n/2014-10-06-diving-into-data-analytics-tools-in-k-12)
+  - FYI, the Shared Learning Collaborative mentioned in the talk became inBloom and became mired in a huge backlash on student privacy:
+[1](http://www.washingtonpost.com/blogs/answer-sheet/wp/2014/01/03/student-privacy-concerns-grow-over-data-in-a-cloud/), [2](http://bits.blogs.nytimes.com/2014/04/21/inbloom-student-data-repository-to-close/?_r=0)
+- Higher Education
+  - Required video: https://www.youtube.com/watch?v=D_e0XRSO1wI OR https://www.youtube.com/watch?v=dlHAEfLthgs
+  - Optional Readings: [1](http://cdn.nmc.org/media/2014-nmc-horizon-report-he-EN-SC.pdf) OR [2](http://www.theguardian.com/higher-education-network/blog/2013/nov/27/university-data-student-engagement-retention)
+- Business
+  - Required video: https://www.youtube.com/watch?v=lP7I328bE0Q&list=PLDN931VRxtb0Wo8xnUHB-X3paaacggMaB
+  - Optional Readings: [1](https://www.td.org/Publications/Magazines/TD/TD-Archive/2014/05/Big-Data-a-Quick-Start-Guide) OR [2](https://www.td.org/Publications/Magazines/TD/TD-Archive/2012/02/New-Learning-Analytics-for-a-New-Workplace) OR [3](https://www.td.org/Publications/Magazines/TD/TD-Archive/2012/06/Government-Resource-Fills-a-Vital-Need?mktcops=c.govt~c.lt~c.learning-and-development&mktcois=c.e-learning~c.training-and-development)
 
-- Wise, A. F. (2014). Designing pedagogical interventions to support student use of learning analytics. In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 203–211). New York, New York, USA: ACM Press. doi:10.1145/2567574.2567588
+Readings suggested by the instructor
+
+- Wise, A. F. (2014). [Designing pedagogical interventions to support student use of learning analytics](http://www.sfu.ca/~afw3/research/e-listening/resources/Wise_LAK14_PedagogicalLearningAnalyticsInterventions.pdf). In Proceedings of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 203–211). New York, New York, USA: ACM Press. doi:10.1145/2567574.2567588
 
 #### __Week 15: WG Working on the Final Project; NO CLASS Meeting__
 
