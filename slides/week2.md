@@ -16,10 +16,9 @@ Any updates on interests in SIGs and WGs?
 Readings
 ========================================================
 
-- Siemens, G. (2013). Learning Analytics: The Emergence of a Discipline. American Behavioral Scientist, 0002764213498851. doi:10.1177/0002764213498851
-- Shum, S. B. (2012). UNESCO Policy Brief: Learning Analytics. Technical Report, UNESCO Institute for Information Technologies in Education.
-
-A lot more curated by you!
+- Siemens, G. (2013). [Learning Analytics: The Emergence of a Discipline](http://abs.sagepub.com/content/57/10/1380). American Behavioral Scientist, 0002764213498851. doi:10.1177/0002764213498851
+- Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing teaching and learning through educational data mining and learning analytics](http://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf). Washington, DC: U.S. Department of Education. __(Only pp. 25-36)__
+- (optional) Shum, S. B. (2012). [UNESCO Policy Brief: Learning Analytics](http://www.iite.unesco.org/publications/3214711/). Technical Report, UNESCO Institute for Information Technologies in Education.
 
 A Recap of Discussed Issues
 ========================================================
